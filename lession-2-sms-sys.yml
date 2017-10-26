@@ -1,3 +1,9 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    username: guest
+    password: '{cipher}31010f99731d4bd8aa7e3ce76152b5686265e1160043aac7cf769c3c8e1bb7ef'
+    
 server:
   port: 9002
 # 使得/refresh不需要验权
