@@ -2,7 +2,7 @@ spring:
   rabbitmq:
     host: 127.0.0.1
     username: guest
-    password: '{cipher}31010f99731d4bd8aa7e3ce76152b5686265e1160043aac7cf769c3c8e1bb7ef'
+    password: '{cipher}63210d06d572e752dcf8a80df8f0c7b81e91a772c91c5d50aefe835a5739abd3'
     
 server:
   port: 9002
