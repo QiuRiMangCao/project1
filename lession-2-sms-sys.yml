@@ -11,4 +11,4 @@ management:
   security:
     enabled: false
 tony:
-    configString: success2
+    configString: success3
