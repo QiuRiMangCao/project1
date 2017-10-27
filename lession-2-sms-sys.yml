@@ -1,2 +1,17 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    username: guest
+    password: '{cipher}63210d06d572e752dcf8a80df8f0c7b81e91a772c91c5d50aefe835a5739abd3'
+    
+server:
+  port: 9002
+# 使得/refresh不需要验权
+management:
+  security:
+    enabled: false
 tony:
-    configString: success
+    configString: success44444
+redis:
+  host: 127.0.0.1
+  port: 6379
